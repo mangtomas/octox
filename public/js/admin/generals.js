@@ -1,0 +1,4 @@
+
+function deleteVoid(){
+ return false;
+}

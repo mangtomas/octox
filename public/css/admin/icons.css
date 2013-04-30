@@ -1,0 +1,50 @@
+[class^="custom-icon-"],
+[class*=" custom-icon-"] {
+  display: inline-block;
+  width: 32px;
+  height: 32px;
+  margin-top: 1px;
+  *margin-right: .3em;
+  line-height: 14px;
+  vertical-align: text-top;
+  background-image: url("../../images/admin/sprite-icon.png");
+  background-position: 14px 14px;
+  background-repeat: no-repeat;
+
+}
+[class^="custom-icon-small-"],
+[class*=" custom-icons-small-"] {
+  width: 22px;
+  height: 22px;
+}
+.custom-icon-small-email{
+	 background-position: -36px 1px;
+}
+.custom-icon-small-users{
+	 background-position: -35px -19px;
+}
+.custom-icon-small-account{
+	 background-position: -35px -63px;
+}
+.custom-icon-small-lock{
+	 background-position: -35px -40px;
+}
+.custom-icon-cog {
+  background-position: -1px -1px;
+}
+
+.custom-icon-info {
+  background-position: -1px -70px;
+}
+
+.custom-icon-monitor {
+  background-position: -1px -35px;
+}
+
+.custom-icon-users {
+  background-position: -1px -100px;
+}
+
+.custom-icon-lock {
+  background-position: -1px -135px;
+}

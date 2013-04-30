@@ -1,0 +1,36 @@
+
+#leftPanel{width: 216px;padding-bottom:60px;position:fixed;background:url(../../images/admin/fluid-repeat.png) repeat-y}
+#rightPanel{min-height:595px;background:url(../../images/admin/left-repeat.png)repeat-y -10px 0px;padding-bottom: 62px;overflow: hidden;margin-left:216px;padding-top:30px;border-left:1px solid #ddd;padding-right:20px;padding-left:20px}
+
+#brand-logo{height:70px;overflow:hidden;border-bottom:1px solid #090c10;margin-bottom:10px}
+
+#top-nav-fixed{position:fixed;height:30px;top:0;left:216px;right:0;padding-left:5px;border-left:1px solid #052540;background:url(../../images/admin/header-repeat.png)repeat-x 0 -45px}
+#top-nav-fixed p{color: #fff;line-height: 25px;}
+
+#user-login{margin-top: 3px;}
+#user-login li a{color:#fff!important}
+#user-login li .dropdown-menu li a{color:#3b3b3b!important}
+.acl-true{position: absolute;width: 16px;height: 16px;margin-left: -9px;margin-top: 1px;background:url('../../images/admin/check.png')no-repeat}
+.acl-false{position: absolute;width: 16px;height: 16px;margin-left: -9px;margin-top: 1px;background:url('../../images/admin/cross.png')no-repeat}
+.arrow-left{position: relative;height: 19px;padding-right: 20px;float: right;margin-top: -24px;margin-right: -26px;background:url(../../images/admin/arrow.png)no-repeat 5px -4px}
+
+a.actions{padding: 3px;font: bold 11px 'Arial';margin-left: 20px!important;}
+a.actions span.issue-icon{position: absolute;width: 16px;height: 16px;margin-left: -20px;margin-top: 1px;}
+a.actions span.update{background:url('../../images/admin/edit.png')no-repeat center center}
+a.actions span.delete{background:url('../../images/admin/delete.png')no-repeat center center}
+
+.table thead th.acl{width:40px;text-align:center}
+.table thead th.text-align-center,.table tbody td.text-align-center{text-align:center!important}
+.table thead th:last-child,.table tbody tr td:last-child{width: 110px;text-align:center!important}
+.align-center{text-align:center!important}
+
+.title-container{
+margin-top:10px;
+}
+
+
+.small-box{border-radius:3px;padding:5px;width:70px;text-align:center;float:left}
+.small-box a{line-height:10px!important}
+.dashboard-nav:after{clear:both}
+.action-btn-container{border-top: 1px solid #e3e3e3;padding-top:17px}
+#footer {padding-top: 30px;text-align:center;border-top:1px solid #ddd;color:#9a9a9a;height:100px;}
